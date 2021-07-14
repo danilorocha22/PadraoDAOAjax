@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+    <pessoa>
+        <codigo>71</codigo>
+        <idade>34</idade>
+        <nome>Danilo</nome>
+    </pessoa>
+    <pessoa>
+        <codigo>72</codigo>
+        <idade>11</idade>
+        <nome>Mesa</nome>
+    </pessoa>
+    <pessoa>
+        <codigo>73</codigo>
+        <idade>34</idade>
+        <nome>Mesa</nome>
+    </pessoa>
+    <pessoa>
+        <codigo>74</codigo>
+        <idade>35</idade>
+        <nome>Impressora</nome>
+    </pessoa>
+</pessoas>
